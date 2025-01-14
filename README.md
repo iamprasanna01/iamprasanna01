@@ -8,9 +8,9 @@
 
 # About ME 💬 :
 
-### - Let me tell you about myself!☺️
+### Let me tell you about myself!☺️
 
-<img hight="400" width="500" alt="GIF" align="right" src="[https://media.tenor.com/4XDjR7Y2GcwAAAAM/eren-freedom.gif]">
+<img hight="400" width="500" alt="GIF" align="right" src="https://media.tenor.com/4XDjR7Y2GcwAAAAM/eren-freedom.gif">
 
 ### - Learning :
 - ✨ Web Security
@@ -27,7 +27,5 @@
 
 </br>
 </br>
-</br>
-SINT.
-- 📫 How to reach me: [email](ping@aprasanna.com.np)
+
 
