@@ -39,7 +39,7 @@
 
 # Contact Me :
 
-If you want to reach me out to share and learn about some cool stuffs, feel free to ping me.😄
+If you want to reach me out to share or learn about some cool stuffs together, feel free to ping me.😄
 
 <a href="mailto:ping@aprasanna.com.np">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
