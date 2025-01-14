@@ -34,5 +34,5 @@
 # Stats 📈
 
 ![Github Stats Profiler](https://github-stats-alpha.vercel.app/api?username=04s1s&cc=000&tc=fff&ic=fff&bc=000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=04s1s&bg_color=000&border_color=000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=04s1s&bg_color=000&border_color=000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
