@@ -34,5 +34,18 @@
 # Stats 📈
 
 ![Github Stats Profiler](https://github-stats-alpha.vercel.app/api?username=04s1s&cc=000&tc=fff&ic=fff&bc=000)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=04s1s&bg_color=000&border_color=000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
+# Contact Me :
+
+If you want to reach me out to share and learn about some cool stuffs, feel free to ping me.😄
+
+<a href="mailto:ping@aprasanna.com.np">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/prasanna-acharya-30b84b227/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
