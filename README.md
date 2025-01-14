@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there,+I+am+Prasanna;A+Cybersecurity+enthusiast;I+break+logics;I+contribute+for+safer+infosec)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=35&duration=3500&pause=300&color=A2E42B&width=650&height=80&lines=Hey+there%2C+I+am+Prasanna;I+am+a+security+enthusiast.;I+break+logics;I+contribute+to+safer+infosec.)](https://git.io/typing-svg)
 
  ---
  
