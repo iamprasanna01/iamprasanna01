@@ -16,7 +16,8 @@
 <img hight="400" width="500" alt="GIF" align="right" src="https://media.tenor.com/4XDjR7Y2GcwAAAAM/eren-freedom.gif">
 
 ### - Learning :
-- ✨ Web Security
+- 💫 Web Security
+- 🧠 Human Psychology
 
 ### - Working on :
 - 💻 [Bug Hunting](https://hackerone.com)
@@ -27,6 +28,7 @@
 - 🌑 Sci-Fi and Dark Series (current - Squid Games S2)
 - 👁️ Observing, Learning (perpetual)
 
+<!-- Jan 13 -->
 
 </br>
 </br>
