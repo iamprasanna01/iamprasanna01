@@ -1,4 +1,4 @@
-[![Prasanna Intro SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=35&duration=3500&pause=300&color=A2E42B&vCenter=true&width=650&height=80&lines=Hey+there%2C+I+am+Prasanna;I+am+a+Security+Enthusiast!;I+break+Logics;I+Contribute+to+a+Safer+Infosec;)](https://git.io/typing-svg)
+[![Prasanna Intro SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=35&duration=3500&pause=300&color=A2E42B&vCenter=true&width=650&height=80&lines=Hey+there%2C+I+am+Prasanna;I+am+a+Security+Enthusiast!;I+break+Logics;I+Contribute+to+a+Safer+Infosec.)](https://git.io/typing-svg)
 
  ---
  <p align="center">
@@ -31,6 +31,8 @@
 </br>
 </br>
 
-# Languages & Tools 👨‍💻 🛠:
-</br>
+# Stats 📈
+
+![Github Stats Profiler](https://github-stats-alpha.vercel.app/api?username=04s1s&cc=000&tc=fff&ic=fff&bc=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=04s1s&bg_color=000&border_color=000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
