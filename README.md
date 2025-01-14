@@ -4,8 +4,11 @@
  <p align="center">
  <img width=400 src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" >
  </p>
+ 
+<br><br>
 
-
+![Visitor Count](https://profile-counter.glitch.me/04s1s/count.svg)
+<br><br><br>
 # About ME 💬 :
 
 ### Let me tell you about myself!☺️
@@ -28,4 +31,6 @@
 </br>
 </br>
 
+# Languages & Tools 👨‍💻 🛠:
+</br>
 
