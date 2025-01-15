@@ -17,7 +17,6 @@
 
 ### - Learning :
 - 💫 Web Security
-- 🧠 Human Psychology
 
 ### - Working on :
 - 💻 [Bug Hunting](https://hackerone.com)
