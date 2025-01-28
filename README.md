@@ -41,7 +41,7 @@
 <details>
   <summary>Series/Movies - Done</summary>
  <p>Note: The description is only based my sole perspective.</p>
-  <p><strong>Squid Games S1, S2: </strong>A survival, thriller, crime series. <br/>It showcases how the human psychology is sensitive to pain, suffering, misery, and societal supression and exploitation and therefore, flexible and easily bendable over allurement, rewards and punishment, driven by greed for weaker and manipulative intents for stronger.</p>
+  <p><strong>Squid Games S1, S2: </strong>A survival, thriller series. <br/>It showcases how the human psychology is sensitive to pain, suffering, misery, and societal supression and exploitation and therefore, flexible and easily bendable over allurement, rewards and punishment, driven by greed for weaker and manipulative intents for stronger.</p>
 
   <p><strong>The Pursuit of Happyness: </strong>A biographical drama. <br/>The story of an American businessman, Chris Gardner during his peak phase of struggle. Depicts the story from the perspective of Chris, who keeps following his dream, with the supression of internal emotions, obligations and family conditions. Within the story, I loved how he survived on the sales of medical scanner with an obvious family condition, until he achieves what he wants to, without showing off any of his emotions to those associated with work and still remaining static on his nature as a good and straight-forward man.😄 <br/>
 Chris Gardner: "You got a dream... You gotta protect it".😇
