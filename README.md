@@ -24,8 +24,8 @@
 ### - Hobbies : 
 - 📚 Reading (current - 48 Laws of Power -- Robert Greene, Sapiens -- Yuval Noah Harrari)
 - 😇 Anime (current - Solo Leveling, Vinland Saga)
-- 🌑 Sci-Fi and Dark Series/Movies (current - Mr. Robot, Interstellar)
-- 👁️ Observing, Learning (perpetual)
+- 🌑 Sci-Fi and Dark Series/Movies (current wishlist - Interstellar, Oppenheimer)
+- 👁️ Observing, Exploring, Learning, Hacking (perpetual)
 
 <details>
   <summary>Books - Done</summary>
