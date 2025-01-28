@@ -24,7 +24,7 @@
 ### - Hobbies : 
 - 📚 Reading (current - 48 Laws of Power)
 - 😇 Anime (current - Solo Leveling, Berserk)
-- 🌑 Sci-Fi and Dark Series (current - Mr. Robot, Interstellar)
+- 🌑 Sci-Fi and Dark Series/Movies (current - Mr. Robot, Interstellar)
 - 👁️ Observing, Learning (perpetual)
 
 <details>
@@ -34,12 +34,16 @@
 
 <details>
   <summary>Anime - Done</summary>
+ <p>Note: The description is from my sole perspective.</p>
   <p><strong>Attack on Titan: </strong>A dark, fictional, action and apocalyptic anime series. <br/>A story of the world misery through humans' hunger for power and path of exploitation, creating a divide in the world as two groups, Marley-Eldia where Eldians are the ones who are restricted and suppressed. The story revolves around hatred, exploitation, human's misery and insecurities for living or thriving. Within the story, a boy named Eren whose emotions and urges are shown to be changing unpredictably with the situations and time, and is the one who changes the course of the humanity's fate with the urge to save his kind, destroy the others, along with a core urge for freedom, but with a questionable action at the end. A brilliant masterpiece!</p>
 </details>
 
 <details>
-  <summary>Series - Done</summary>
+  <summary>Series/Movies - Done</summary>
+ <p>Note: The description is from my sole perspective.</p>
   <p><strong>Squid Games S1, S2: </strong>A survival, thriller, crime series. <br/>It showcases how the human psychology is sensitive to pain, suffering, misery, and societal supression and exploitation and therefore, flexible and easily bendable over allurement, rewards and punishment, driven by greed for weaker and manipulative intents for stronger.</p>
+
+  <p><strong>The Pursuit of Happyness: </strong>A biographical drama. <br/>The story of an American businessman, Chris Gardner during his peak phase of struggle. Depicts the story from the perspective of Chris, who keeps following his dreams, with the supression of internal emotions, obligations and family conditions. Within the story, I loved how he survived on the sales of medical scanner until he achieves what he wants to, without showing off any of his emotions and still remaining static on his nature as a good and straight-forward man.😄</p>
 </details>
 
 <!-- Jan 13 -->
