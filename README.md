@@ -22,8 +22,8 @@
 - 💻 [Bug Hunting](https://hackerone.com)
 
 ### - Hobbies : 
-- 📚 Reading (current - 48 Laws of Power)
-- 😇 Anime (current - Solo Leveling, Berserk)
+- 📚 Reading (current - 48 Laws of Power -- Robert Greene, Sapiens -- Yuval Noah Harrari)
+- 😇 Anime (current - Solo Leveling, Vinland Saga)
 - 🌑 Sci-Fi and Dark Series/Movies (current - Mr. Robot, Interstellar)
 - 👁️ Observing, Learning (perpetual)
 
@@ -35,7 +35,7 @@
 <details>
   <summary>Anime - Done</summary>
  <p>Note: The description is only based on my sole perspective.</p>
-  <p><strong>Attack on Titan: </strong>A dark, fictional, action and apocalyptic anime series. <br/>A story of the world misery through humans' hunger for power and path of exploitation, creating a divide in the world as two groups, Marley-Eldia where Eldians are the ones who are restricted and suppressed. The story revolves around hatred, exploitation, human's misery and insecurities for living or thriving. Within the story, a boy named Eren whose emotions and urges are shown to be changing unpredictably with the situations and time, and is the one who changes the course of the humanity's fate with the urge to save his kind, destroy the others, along with a core urge for freedom, but with a questionable action at the end. A brilliant masterpiece!</p>
+  <p><strong>Attack on Titan: </strong>A dark, fictional, action and apocalyptic anime series. <br/>A story of the world misery through humans' hunger for power and path of exploitation, creating a divide in the world as two groups, Marley-Eldia where Eldians are the ones who are restricted and suppressed. The story revolves around hatred, exploitation, human's misery and insecurities for living or thriving. Within the story, a boy named Eren whose emotions and urges are shown to be changing unpredictably with the situations and time, is the one who changes the course of humanity's fate with the urge to save his kind, destroy the others, along with a core urge for freedom, but with a questionable action at the end. A brilliant masterpiece!</p>
 </details>
 
 <details>
