@@ -80,12 +80,12 @@ Death Note follows Light Yagami, a genius student who discovers a notebook that 
  The story of the fate of humanity distorted currently by the antagonist called Muzan who wants to turn all of the humankinds into demons. The demons would have an abnormal abilities than humans in terms of regeneration, skills and abilities, but sunlight being the main weakness. This creates a community of demon slayers who continuously struggle to stop and work against the motive of demons, with Muzan being the leader for core purpose. The story mostly revolves around Tanjiro, whose sister have been turned into demon as well, but with unusual phenomema like sensation of emotions and relations, unlike normal demons. With the rage and feeling of revenge, Tanjiro continuously pushes himself to turn his sister back into human and free the mankind from the misery created by demons.
 </p>
 
-<div align="left" style="margin-left: 20px;">
+<!-- See more 1, Anime -->
  <details> 
  <summary>See more...</summary>
   
- <p><strong>Demon Slayer - S1, Mugen Train, S3, S4: </strong>Adventure and dark fantasy <br/>
- The story of the fate of humanity distorted currently by the antagonist called Muzan who wants to turn all of the humankinds into demons. The demons would have an abnormal abilities than humans in terms of regeneration, skills and abilities, but sunlight being the main weakness. This creates a community of demon slayers who continuously struggle to stop and work against the motive of demons, with Muzan being the leader for core purpose. The story mostly revolves around Tanjiro, whose sister have been turned into demon as well, but with unusual phenomema like sensation of emotions and relations, unlike normal demons. With the rage and feeling of revenge, Tanjiro continuously pushes himself to turn his sister back into human and free the mankind from the misery created by demons.
+ <p><strong>One Piece: </strong>Adventure, Action and Fantasy <br/>
+  
 </p>
  
 </details>
