@@ -45,6 +45,11 @@
  </p>
 </details>
 
+
+
+<!-- Update: Jan 29, 2025 -->
+
+
  <details> <!-- inner 2 -->
  <summary>Civilization</summary> <!-- inner 2 label -->
   <p>Wishlist:
@@ -127,6 +132,14 @@ Death Note follows Light Yagami, a genius student who discovers a notebook that 
  <summary>See more...</summary>
   
  <p><strong>One Piece: </strong>Adventure, Action and Fantasy <br/>
+  
+</p>
+
+<p><strong>Naruto Sippuden: </strong>Adventure, Action and Fantasy <br/>
+  
+</p>
+
+<p><strong>Solo Leveling (Manhwa): </strong>Adventure, Action and Fantasy <br/>
   
 </p>
  
