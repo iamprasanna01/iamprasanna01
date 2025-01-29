@@ -48,6 +48,10 @@
 
 
 <!-- Update: Jan 29, 2025 -->
+<!-- Now starts your time for real tests, trials, experimentations, explorations and a real hell, where you will not be victimized this time, rather you would live and be with it, the hell is where you belong, just keep striving and feeling the enjoyment being in hell until you get out victorious -->
+<!-- Pain, emotions, feelings - all are part of you - either accept them or strive until acceptance -->
+
+
 
 
  <details> <!-- inner 2 -->
